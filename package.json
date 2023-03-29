@@ -1,6 +1,6 @@
 {
-  "name": "@stephenchin/utils",
-  "version": "0.0.1",
+  "name": "qxy-utils",
+  "version": "0.0.3",
   "description": "my utils",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://stephenchin@github.com/stephenchin/utils.git"
   },
   "keywords": ["utils", "js-utils"],
-  "author": "stephenchin",
+  "author": "qinxiaoyu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/stephenchin/utils/issues"
